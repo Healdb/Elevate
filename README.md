@@ -1,5 +1,6 @@
 # Elevate
 Vertical domain discovery tool
+![output](/images/elevate.gif)
 
 Requirements:
 
