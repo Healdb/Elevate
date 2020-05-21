@@ -17,11 +17,16 @@ Elevate takes in a partial organization name, an email address, or a domain name
 Sample Usage with a known domain name and email address: 
 `python elevate.py -o "reddit_domains.txt" -d "reddit.com" -e "domainadmin@reddit.com"`
 
+![domain email output](/images/domain_email_image.PNG)
+
 Search with only a domain name: 
 `python elevate.py -o "reddit_domains.txt" -d "reddit.com"`
 
+![domain output](/images/domain_image.PNG)
+
 Search with only an email address: 
 `python elevate.py -o "reddit_domains.txt" -e "domainadmin@reddit.com"`
+![domain output](/images/email_image.PNG)
 
 If you only know the Organization's name, such as 'Uber', you can search the ASN registry for a match.
 Searching with only a partial name:
@@ -29,4 +34,5 @@ Searching with only a partial name:
 
 You will then be prompted to select the ASN names that closely match your search term. Elevate will then search for domains registered to that company name.
 
+![domain output](/images/partial_image.PNG)
 
