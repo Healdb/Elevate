@@ -30,6 +30,7 @@ Search with only a domain name:
 Search with only an email address: 
 
 `python elevate.py -o "reddit_domains.txt" -e "domainadmin@reddit.com"`
+
 ![domain output](/images/email_image.PNG)
 
 If you only know the Organization's name, such as 'Uber', you can search the ASN registry for a match.
