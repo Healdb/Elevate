@@ -13,6 +13,7 @@ ___________.__                       __
 /_______  /|____/\___  >\_/  (____  /__|  \___  >
         \/           \/           \/          \/
         by Ben Heald
+        https://healdb.tech
         https://github.com/Healdb/Elevate
         https://twitter.com/heald_ben
         """)
