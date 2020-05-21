@@ -2,7 +2,7 @@
 Elevate is a vertical domain discovery tool you can use to discover other domains owned by a given company
 ![output](/images/elevate.gif)
 
-Requirements:
+# Requirements:
 
 Install requirements with the command `pip install -r requirements.txt`
 
@@ -10,7 +10,7 @@ API keys from WHOXY and whoisXML are also needed, but the accounts are free to s
 Place these keys in the config.txt file.
 Sign up for these accounts here - https://www.whoxy.com/ and here - https://www.whoisxmlapi.com/
 
-USAGE:
+# Usage:
 
 Elevate takes in a partial organization name, an email address, or a domain name, and finds all other domain names owned by that organization.
 
