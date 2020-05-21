@@ -1,5 +1,5 @@
 # Elevate
-Vertical domain discovery tool
+Elevate is a vertical domain discovery tool you can use to discover other domains owned by a given company
 ![output](/images/elevate.gif)
 
 Requirements:
