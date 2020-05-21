@@ -15,7 +15,7 @@ Sign up for these accounts here - https://www.whoxy.com/ and here - https://www.
 
 Elevate takes in a partial organization name, an email address, or a domain name, and finds all other domain names owned by that organization.
 
-Sample Usage with a known domain name and email address: 
+Sample use: 
 `python elevate.py -o "reddit_domains.txt" -d "reddit.com" -e "domainadmin@reddit.com"`
 
 ![domain email output](/images/domain_email_image.PNG)
