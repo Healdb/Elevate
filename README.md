@@ -2,7 +2,6 @@
 Vertical domain discovery tool
 
 Requirements:
-requests
 
 Install requirements with the command `pip install -r requirements.txt`
 
