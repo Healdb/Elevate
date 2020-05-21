@@ -1,0 +1,2 @@
+whoxy:WHOXY_API_KEY
+whoisxml:WHOISXML_API_KEY
