@@ -17,7 +17,7 @@ ___________.__                       __
         https://github.com/Healdb/Elevate
         https://twitter.com/heald_ben
         """)
-    print("Vertical Domain Discovery\n")
+    print("Horizontal Domain Discovery\n")
 def asnSearch(utils,partialOrgName,verbose):
     #Search for domains using organization name
     orgNames = utils.getOrgASN(partialOrgName)
