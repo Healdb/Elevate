@@ -1,7 +1,7 @@
 # Elevate
 https://healdb.tech/blog/elevate.html
 
-Elevate is a vertical domain discovery tool you can use to discover other domains owned by a given company. Domains owned by Reddit are discovered with the tool below.
+Elevate is a horizontal domain discovery tool you can use to discover other domains owned by a given company. Domains owned by Reddit are discovered with the tool below.
 
 ![output](/images/elevate.gif)
 
